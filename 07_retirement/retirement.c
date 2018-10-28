@@ -25,5 +25,13 @@ void retirement(int startAge, 	double initial,   retire_info working, 	retire_in
   }
 }
 int main(void){
+  retire_info working, retired;
+  working.contribution = 1000;
+  working.months = 489;
+  working.rate_of_return = 0.045;
+  retired.contribution = -4000;
+  retired.months = 384;
+  retired.rate_of_return = 0.01;
+  retirement(327, 21345, working, retired);
   return EXIT_SUCCESS;
 }
