@@ -45,8 +45,11 @@ rectangle intersection(rectangle r1, rectangle r2) {
     r1.height=top-ymax;
     r1.x=xmax;
     r1.y=ymax;
-    if(r1.width<0){r1.width=0;};
-    if(r1.height<0){r1.height=0;};
+    if((r1.width<0) ||( r1.height<0) ){
+      r1.width=0;
+      r1.height=0;
+    };
+   
   //WRITE THIS FUNCTION
   return r1;
 }
