@@ -24,3 +24,6 @@ void retirement(int startAge, 	double initial,   retire_info working, 	retire_in
     balance = balance + balance*retired.rate_of_return/12+retired.contribution;
   }
 }
+int main(void){
+  return EXIT_SUCCESS;
+}
