@@ -1,0 +1,21 @@
+aaaaa aaaaa
+aaaab cccdd
+aaabb ccccd
+aaabb ccdef
+aabcd dddef
+aabcd efghi
+abcde ffghi
+aaaaa bcdef
+abcde fffff
+a a
+aa a
+a aa
+a abcde
+abced a
+aaaaa aaaaaa
+aaaaaa aaaaa
+abbbb abbbb
+aaaaa aaaaa aaaaa
+a
+aaaaa
+aaaaaa
