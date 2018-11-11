@@ -1,0 +1,39 @@
+same:
+
+Kh Js 0h 9s 8c 7s 6d; Kh Js 0h 9s 8c 7s 6d
+
+Kh Kh 0h 9s 8c 7s 6d; Js Js 0h 9s 8c 7s 6d
+
+Kh Js 0h 9s 8c 7s 6d; Kh Js 0h 9s 8c 7s 5d
+
+
+
+ace low problem:
+
+5d 4s 3c 9h 8h 6s 7s; 5d 4s 3c 2h Ah 6s 7s
+
+As Ks Qs Js 0s 7c 6h; 9s Ks Qs Js 0s 7c 5h
+
+
+
+stright flush problem:
+
+As Ks Qh Jh 0h 5h 4h; As Ks Qh Jh 0h 6h 3h
+
+
+
+finding stright:
+Qs Js 0s 9d 9h 8h 8d; Qs Js 0s 9d 9h 7h 7d
+1and22:
+As Ac Kh Qh Jd Js 4s; As 4d Kh Qh Jd Js 4s
+case9:
+2s 3s 4s 5h 6s 8s 9h; As 2s 3s 4s 5s 8h 9h
+case15:
+Ah Ad Jc 0s 7s 6c 3h; Ah 3c Jc 0s 7s 6c 3h
+
+0c 0s 0h 0d Qd 6h 2s; 0c 0s 0h 0d 7c 6h 2s
+9h 9d 9s Js Jd 0d 3c; 9h 9d Jh Js Jd 0d 3c
+Kh Kc Kd Ac 4h 3s 2c; Kh Kc Kd Ac 7h 3s 2c
+As Ks Qd Js 0d 5d 4d; As Ks Qd Js 0d 5d 4d
+5s 4s 3s 2s As 0d 4c; 4c 4s As 0d 5s 3s 2d
+Ac Qc 0c 6c 4c 0h 3d; Qc 6c 4c 0h 3d 4h 8d 
